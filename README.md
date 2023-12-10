@@ -53,4 +53,19 @@ The dataset, "DATA ANALYTICS PROJECT DATASET.xlsx," includes a variety of econom
 - **Causality Studies:** To explore causal relationships between policy initiatives and economic indicators.
 - **Extended Sector Analysis:** To provide a more holistic view of the policy's impact.
 
----
+
+## Team Members
+
+The success of the "Make in India Policy" Data Analytics Project is attributed to the concerted efforts of our dedicated team members, each specializing in different sectors of the dataset:
+
+1. **Ankit Yadav (22112309):** Ankit was responsible for handling the automobiles dataset. His analysis provided key insights into the automobile sector's trade dynamics and economic impact under the "Make in India" policy.
+
+2. **Justin Thomas John (22112315):** Justin focused on the IT sector dataset. His work involved extracting vital information about the growth, trends, and investment patterns in the IT and BPM sector.
+
+3. **Mahak Maurya (22112321):** Mahak dedicated her expertise to the pharma dataset. Her analysis shed light on the pharmaceutical industry's development, challenges, and opportunities in the context of the policy.
+
+4. **Vardan (22112340):** Vardan managed the chemical dataset, providing an in-depth exploration of the chemical industry's market trends, exports, imports, and growth trajectory in India.
+
+Each team member's specialization contributed to a comprehensive understanding of various key sectors, collectively painting a detailed picture of the economic landscape shaped by the "Make in India" initiative.
+
+
